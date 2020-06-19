@@ -8,6 +8,7 @@ with open(work) as f:
     read=csv.reader(f)
     cabezera=next(read)
 #se extrae todos los datos del archivo csv
+    # rataza
 
     dates_pm_10=[]
     pm_10=[]
