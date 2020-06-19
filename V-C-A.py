@@ -9,7 +9,7 @@ with open(work) as f:
     cabezera=next(read)
 #se extrae todos los datos del archivo csv
     # rataza
-
+    #hola rata
     dates_pm_10=[]
     pm_10=[]
    
